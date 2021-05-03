@@ -151,6 +151,11 @@
   display: none;
 }
 
+* {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 .app {
   background-color: #111;
 }
