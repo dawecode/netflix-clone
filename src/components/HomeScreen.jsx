@@ -1,9 +1,8 @@
 import React from "react";
-import "./HomeScreen.scss";
 import Nav from "./Nav";
 import Banner from "./Banner";
 import Row from "./Row";
-import requests from "./Requests";
+import requests from "../axios/Requests";
 
 function HomeScreen() {
   return (
